@@ -1,21 +1,21 @@
 {
     "Identifier": "eos79s2",
     "Slug": "test-model-2",
-    "Status": "",
+    "Status": "In progress",
     "Title": "Tes model 2",
     "Description": "Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum Lorem ipsum",
-    "Mode": "",
-    "Input": [],
-    "Input Shape": "",
-    "Task": [],
-    "Output": [],
-    "Interpretation": "",
+    "Mode": "Pretrained",
+    "Input": ["Compound"],
+    "Input Shape": "Single",
+    "Task": ["Classification"],
+    "Output": ["Boolean"],
+    "Interpretation": "Lorem ipsum",
     "Tag": [
         "Malaria",
         "P.falciparum",
         "IC50"
     ],
     "Publication": "https://ersilia.io",
-    "Source": "",
+    "Source": "https://ersilia.io",
     "License": "MIT"
 }
